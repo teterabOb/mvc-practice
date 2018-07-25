@@ -1,0 +1,20 @@
+﻿@model Usuario
+<div id="user">
+    <div class="user-container-fixed">
+        <div class="user-container">
+            <h1>@Model.Nombre @Model.Apellido</h1>
+            <img class="pic" src="~/uploads/@Model.Foto" title="@Model.Nombre @Model.Apellido" />
+            <span class="title">Teléfono</span>
+            <span class="description">@Model.Telefono</span>
+            <span class="title">Email</span>
+            <span class="description">
+                <a href="mailto:@Model.Email">@Model.Email</a>
+            </span>
+            <span class="title">Dirección</span>
+            <span class="description">
+                @Model.Direccion<br />
+                @Model.Ciudad / @Model.Pais.Descripcion
+            </span>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,15 @@
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\19- Autenticacion\proyecto\Helper\bin\Debug\Helper.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\19- Autenticacion\proyecto\Helper\bin\Debug\Helper.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\19- Autenticacion\proyecto\Helper\obj\Debug\Helper.csprojResolveAssemblyReference.cache
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\19- Autenticacion\proyecto\Helper\obj\Debug\Helper.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\19- Autenticacion\proyecto\Helper\obj\Debug\Helper.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\20- Informacion personal\proyecto\Helper\bin\Debug\Helper.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\20- Informacion personal\proyecto\Helper\bin\Debug\Helper.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\20- Informacion personal\proyecto\Helper\obj\Debug\Helper.csprojResolveAssemblyReference.cache
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\20- Informacion personal\proyecto\Helper\obj\Debug\Helper.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\20- Informacion personal\proyecto\Helper\obj\Debug\Helper.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\25- Mostrando perfil profesional\proyecto\Helper\bin\Debug\Helper.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\25- Mostrando perfil profesional\proyecto\Helper\bin\Debug\Helper.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\25- Mostrando perfil profesional\proyecto\Helper\obj\Debug\Helper.csprojResolveAssemblyReference.cache
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\25- Mostrando perfil profesional\proyecto\Helper\obj\Debug\Helper.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\25- Mostrando perfil profesional\proyecto\Helper\obj\Debug\Helper.pdb

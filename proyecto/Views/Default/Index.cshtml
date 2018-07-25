@@ -1,0 +1,99 @@
+﻿@model Usuario
+@{
+    ViewBag.Title = "Index";
+}
+
+@if (Model.Experiencia.Count > 0)
+{
+    <h2 class="title title-blue">
+        <i class="fa fa-briefcase pull-right"></i>
+        Empleos previos
+    </h2>
+    foreach (var e in Model.Experiencia.Where( x => x.Tipo == 1).ToList())
+    {
+        <div class="list well well-sm">
+            <div class="list-heading">
+                @e.Nombre <small class="list-heading-date">@e.Desde - @(e.Hasta == null ? "Actualmente" : e.Hasta)</small>
+                <span class="list-heading-subtitle">@e.Titulo</span>
+            </div>
+            <div class="list-description">
+                <p>@e.Descripcion</p>
+            </div>
+        </div>
+    }
+}
+
+@if (Model.Habilidad.Count > 0)
+{
+    <h2 class="title title-yellow">
+        <i class="fa fa-line-chart pull-right"></i>
+        Habilidades obtenidas
+    </h2>
+    <ul class="list-group">
+        @foreach (var e in Model.Habilidad)
+        {
+            <li class="list-group-item">
+                <div class="row">
+                    <div class="col-lg-2">
+                        <b>@e.Nombre</b>
+                    </div>
+                    <div class="col-lg-10">
+                        <div class="progress">
+                            <div class="progress-bar" role="progressbar" aria-valuenow="@e.Dominio" aria-valuemin="0" aria-valuemax="100" style="width: @e.Dominio%">@e.Dominio %</div>
+                        </div>
+                    </div>
+                </div>
+            </li>
+        }
+    </ul>
+}
+
+@if (Model.Experiencia.Count > 0)
+{
+    <h2 class="title title-green">
+        <i class="fa fa-university pull-right"></i>
+        Estudios realizados
+    </h2>
+    foreach (var e in Model.Experiencia.Where(x => x.Tipo == 2).ToList())
+    {
+        <div class="list well well-sm">
+            <div class="list-heading">
+                @e.Nombre <small class="list-heading-date">@e.Desde - @(e.Hasta == null ? "Actualmente" : e.Hasta)</small>
+                <span class="list-heading-subtitle">@e.Titulo</span>
+            </div>
+            <div class="list-description">
+                <p>@e.Descripcion</p>
+            </div>
+        </div>
+    }
+}
+
+<h2 class="title title-red">
+    <i class="fa fa-comment pull-right"></i>
+    Testimonios
+</h2>
+
+@Html.Partial("~/views/shared/_testimonio.cshtml", new Testimonio {
+    Usuario_id = proyecto.App_Start.FrontOfficeStartUp.UsuarioVisualizando(),
+    Fecha = DateTime.Now.ToString("yyyy-MM-dd"),
+    IP = Request.ServerVariables["REMOTE_ADDR"]
+})
+
+<hr />
+
+@if (Model.Testimonio.Count > 0)
+{
+    <div class="media">
+        <div class="media-body">
+            @foreach (var e in Model.Testimonio)
+            {
+                <h4 class="media-heading">
+                    @e.Nombre <small>Enviado el @e.Fecha</small>
+                </h4>
+                <div class="well well-sm">
+                    @e.Comentario
+                </div>
+            }
+        </div>
+    </div>
+}

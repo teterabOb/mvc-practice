@@ -1,0 +1,292 @@
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\17- Creando y configurando nuestro proyecto\proyecto\proyecto\bin\proyecto.dll.config
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\17- Creando y configurando nuestro proyecto\proyecto\proyecto\bin\proyecto.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\17- Creando y configurando nuestro proyecto\proyecto\proyecto\bin\proyecto.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\17- Creando y configurando nuestro proyecto\proyecto\proyecto\bin\EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\17- Creando y configurando nuestro proyecto\proyecto\proyecto\bin\EntityFramework.SqlServer.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\17- Creando y configurando nuestro proyecto\proyecto\proyecto\bin\Model.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\17- Creando y configurando nuestro proyecto\proyecto\proyecto\bin\System.Web.Helpers.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\17- Creando y configurando nuestro proyecto\proyecto\proyecto\bin\System.Web.Mvc.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\17- Creando y configurando nuestro proyecto\proyecto\proyecto\bin\System.Web.Razor.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\17- Creando y configurando nuestro proyecto\proyecto\proyecto\bin\System.Web.Webpages.Deployment.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\17- Creando y configurando nuestro proyecto\proyecto\proyecto\bin\System.Web.Webpages.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\17- Creando y configurando nuestro proyecto\proyecto\proyecto\bin\System.Web.Webpages.Razor.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\17- Creando y configurando nuestro proyecto\proyecto\proyecto\bin\Model.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\17- Creando y configurando nuestro proyecto\proyecto\proyecto\bin\EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\17- Creando y configurando nuestro proyecto\proyecto\proyecto\bin\EntityFramework.SqlServer.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\17- Creando y configurando nuestro proyecto\proyecto\proyecto\bin\System.Web.Razor.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\17- Creando y configurando nuestro proyecto\proyecto\proyecto\bin\System.Web.Webpages.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\17- Creando y configurando nuestro proyecto\proyecto\proyecto\bin\System.Web.Webpages.Deployment.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\17- Creando y configurando nuestro proyecto\proyecto\proyecto\bin\System.Web.Webpages.Razor.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\17- Creando y configurando nuestro proyecto\proyecto\proyecto\bin\System.Web.Helpers.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\17- Creando y configurando nuestro proyecto\proyecto\proyecto\bin\System.Web.Mvc.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\17- Creando y configurando nuestro proyecto\proyecto\proyecto\obj\Debug\proyecto.csprojResolveAssemblyReference.cache
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\17- Creando y configurando nuestro proyecto\proyecto\proyecto\obj\Debug\proyecto.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\17- Creando y configurando nuestro proyecto\proyecto\proyecto\obj\Debug\proyecto.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\18- Creando un area para el back-office\proyecto\proyecto\bin\proyecto.dll.config
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\18- Creando un area para el back-office\proyecto\proyecto\bin\proyecto.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\18- Creando un area para el back-office\proyecto\proyecto\bin\proyecto.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\18- Creando un area para el back-office\proyecto\proyecto\bin\EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\18- Creando un area para el back-office\proyecto\proyecto\bin\EntityFramework.SqlServer.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\18- Creando un area para el back-office\proyecto\proyecto\bin\Model.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\18- Creando un area para el back-office\proyecto\proyecto\bin\System.Web.Helpers.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\18- Creando un area para el back-office\proyecto\proyecto\bin\System.Web.Mvc.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\18- Creando un area para el back-office\proyecto\proyecto\bin\System.Web.Razor.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\18- Creando un area para el back-office\proyecto\proyecto\bin\System.Web.Webpages.Deployment.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\18- Creando un area para el back-office\proyecto\proyecto\bin\System.Web.Webpages.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\18- Creando un area para el back-office\proyecto\proyecto\bin\System.Web.Webpages.Razor.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\18- Creando un area para el back-office\proyecto\proyecto\bin\Model.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\18- Creando un area para el back-office\proyecto\proyecto\bin\EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\18- Creando un area para el back-office\proyecto\proyecto\bin\EntityFramework.SqlServer.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\18- Creando un area para el back-office\proyecto\proyecto\bin\System.Web.Razor.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\18- Creando un area para el back-office\proyecto\proyecto\bin\System.Web.Webpages.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\18- Creando un area para el back-office\proyecto\proyecto\bin\System.Web.Webpages.Deployment.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\18- Creando un area para el back-office\proyecto\proyecto\bin\System.Web.Webpages.Razor.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\18- Creando un area para el back-office\proyecto\proyecto\bin\System.Web.Helpers.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\18- Creando un area para el back-office\proyecto\proyecto\bin\System.Web.Mvc.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\18- Creando un area para el back-office\proyecto\proyecto\obj\Debug\proyecto.csprojResolveAssemblyReference.cache
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\18- Creando un area para el back-office\proyecto\proyecto\obj\Debug\proyecto.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\18- Creando un area para el back-office\proyecto\proyecto\obj\Debug\proyecto.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\19- Autenticacion\proyecto\proyecto\bin\proyecto.dll.config
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\19- Autenticacion\proyecto\proyecto\bin\proyecto.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\19- Autenticacion\proyecto\proyecto\bin\proyecto.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\19- Autenticacion\proyecto\proyecto\bin\EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\19- Autenticacion\proyecto\proyecto\bin\EntityFramework.SqlServer.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\19- Autenticacion\proyecto\proyecto\bin\Helper.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\19- Autenticacion\proyecto\proyecto\bin\Model.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\19- Autenticacion\proyecto\proyecto\bin\System.Web.Helpers.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\19- Autenticacion\proyecto\proyecto\bin\System.Web.Mvc.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\19- Autenticacion\proyecto\proyecto\bin\System.Web.Razor.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\19- Autenticacion\proyecto\proyecto\bin\System.Web.Webpages.Deployment.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\19- Autenticacion\proyecto\proyecto\bin\System.Web.Webpages.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\19- Autenticacion\proyecto\proyecto\bin\System.Web.Webpages.Razor.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\19- Autenticacion\proyecto\proyecto\bin\Helper.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\19- Autenticacion\proyecto\proyecto\bin\Model.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\19- Autenticacion\proyecto\proyecto\bin\EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\19- Autenticacion\proyecto\proyecto\bin\EntityFramework.SqlServer.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\19- Autenticacion\proyecto\proyecto\bin\System.Web.Razor.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\19- Autenticacion\proyecto\proyecto\bin\System.Web.Webpages.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\19- Autenticacion\proyecto\proyecto\bin\System.Web.Webpages.Deployment.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\19- Autenticacion\proyecto\proyecto\bin\System.Web.Webpages.Razor.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\19- Autenticacion\proyecto\proyecto\bin\System.Web.Helpers.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\19- Autenticacion\proyecto\proyecto\bin\System.Web.Mvc.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\19- Autenticacion\proyecto\proyecto\obj\Debug\proyecto.csprojResolveAssemblyReference.cache
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\19- Autenticacion\proyecto\proyecto\obj\Debug\proyecto.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\19- Autenticacion\proyecto\proyecto\obj\Debug\proyecto.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\20- Informacion personal\proyecto\proyecto\obj\Debug\proyecto.csprojResolveAssemblyReference.cache
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\20- Informacion personal\proyecto\proyecto\obj\Debug\proyecto.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\20- Informacion personal\proyecto\proyecto\bin\proyecto.dll.config
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\20- Informacion personal\proyecto\proyecto\bin\proyecto.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\20- Informacion personal\proyecto\proyecto\bin\proyecto.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\20- Informacion personal\proyecto\proyecto\bin\EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\20- Informacion personal\proyecto\proyecto\bin\EntityFramework.SqlServer.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\20- Informacion personal\proyecto\proyecto\bin\Helper.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\20- Informacion personal\proyecto\proyecto\bin\Model.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\20- Informacion personal\proyecto\proyecto\bin\System.Web.Helpers.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\20- Informacion personal\proyecto\proyecto\bin\System.Web.Mvc.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\20- Informacion personal\proyecto\proyecto\bin\System.Web.Razor.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\20- Informacion personal\proyecto\proyecto\bin\System.Web.Webpages.Deployment.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\20- Informacion personal\proyecto\proyecto\bin\System.Web.Webpages.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\20- Informacion personal\proyecto\proyecto\bin\System.Web.Webpages.Razor.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\20- Informacion personal\proyecto\proyecto\bin\Helper.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\20- Informacion personal\proyecto\proyecto\bin\Model.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\20- Informacion personal\proyecto\proyecto\bin\EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\20- Informacion personal\proyecto\proyecto\bin\EntityFramework.SqlServer.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\20- Informacion personal\proyecto\proyecto\bin\System.Web.Razor.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\20- Informacion personal\proyecto\proyecto\bin\System.Web.Webpages.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\20- Informacion personal\proyecto\proyecto\bin\System.Web.Webpages.Deployment.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\20- Informacion personal\proyecto\proyecto\bin\System.Web.Webpages.Razor.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\20- Informacion personal\proyecto\proyecto\bin\System.Web.Helpers.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\20- Informacion personal\proyecto\proyecto\bin\System.Web.Mvc.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\20- Informacion personal\proyecto\proyecto\obj\Debug\proyecto.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\20- Informacion personal\proyecto\proyecto\bin\Microsoft.Web.Infrastructure.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\21- Mantenimiento de experiencia\proyecto\proyecto\bin\proyecto.dll.config
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\21- Mantenimiento de experiencia\proyecto\proyecto\bin\proyecto.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\21- Mantenimiento de experiencia\proyecto\proyecto\bin\proyecto.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\21- Mantenimiento de experiencia\proyecto\proyecto\bin\EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\21- Mantenimiento de experiencia\proyecto\proyecto\bin\EntityFramework.SqlServer.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\21- Mantenimiento de experiencia\proyecto\proyecto\bin\Helper.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\21- Mantenimiento de experiencia\proyecto\proyecto\bin\Microsoft.Web.Infrastructure.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\21- Mantenimiento de experiencia\proyecto\proyecto\bin\Model.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\21- Mantenimiento de experiencia\proyecto\proyecto\bin\System.Web.Helpers.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\21- Mantenimiento de experiencia\proyecto\proyecto\bin\System.Web.Mvc.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\21- Mantenimiento de experiencia\proyecto\proyecto\bin\System.Web.Razor.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\21- Mantenimiento de experiencia\proyecto\proyecto\bin\System.Web.Webpages.Deployment.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\21- Mantenimiento de experiencia\proyecto\proyecto\bin\System.Web.Webpages.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\21- Mantenimiento de experiencia\proyecto\proyecto\bin\System.Web.Webpages.Razor.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\21- Mantenimiento de experiencia\proyecto\proyecto\bin\Helper.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\21- Mantenimiento de experiencia\proyecto\proyecto\bin\Model.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\21- Mantenimiento de experiencia\proyecto\proyecto\bin\EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\21- Mantenimiento de experiencia\proyecto\proyecto\bin\EntityFramework.SqlServer.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\21- Mantenimiento de experiencia\proyecto\proyecto\bin\System.Web.Razor.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\21- Mantenimiento de experiencia\proyecto\proyecto\bin\System.Web.Webpages.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\21- Mantenimiento de experiencia\proyecto\proyecto\bin\System.Web.Webpages.Deployment.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\21- Mantenimiento de experiencia\proyecto\proyecto\bin\System.Web.Webpages.Razor.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\21- Mantenimiento de experiencia\proyecto\proyecto\bin\System.Web.Helpers.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\21- Mantenimiento de experiencia\proyecto\proyecto\bin\System.Web.Mvc.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\21- Mantenimiento de experiencia\proyecto\proyecto\obj\Debug\proyecto.csprojResolveAssemblyReference.cache
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\21- Mantenimiento de experiencia\proyecto\proyecto\obj\Debug\proyecto.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\21- Mantenimiento de experiencia\proyecto\proyecto\obj\Debug\proyecto.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\21- Mantenimiento de habilidades\proyecto\proyecto\bin\proyecto.dll.config
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\21- Mantenimiento de habilidades\proyecto\proyecto\bin\proyecto.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\21- Mantenimiento de habilidades\proyecto\proyecto\bin\proyecto.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\21- Mantenimiento de habilidades\proyecto\proyecto\bin\EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\21- Mantenimiento de habilidades\proyecto\proyecto\bin\EntityFramework.SqlServer.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\21- Mantenimiento de habilidades\proyecto\proyecto\bin\Helper.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\21- Mantenimiento de habilidades\proyecto\proyecto\bin\Microsoft.Web.Infrastructure.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\21- Mantenimiento de habilidades\proyecto\proyecto\bin\Model.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\21- Mantenimiento de habilidades\proyecto\proyecto\bin\System.Web.Helpers.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\21- Mantenimiento de habilidades\proyecto\proyecto\bin\System.Web.Mvc.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\21- Mantenimiento de habilidades\proyecto\proyecto\bin\System.Web.Razor.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\21- Mantenimiento de habilidades\proyecto\proyecto\bin\System.Web.Webpages.Deployment.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\21- Mantenimiento de habilidades\proyecto\proyecto\bin\System.Web.Webpages.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\21- Mantenimiento de habilidades\proyecto\proyecto\bin\System.Web.Webpages.Razor.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\21- Mantenimiento de habilidades\proyecto\proyecto\bin\Helper.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\21- Mantenimiento de habilidades\proyecto\proyecto\bin\Model.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\21- Mantenimiento de habilidades\proyecto\proyecto\bin\EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\21- Mantenimiento de habilidades\proyecto\proyecto\bin\EntityFramework.SqlServer.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\21- Mantenimiento de habilidades\proyecto\proyecto\bin\System.Web.Razor.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\21- Mantenimiento de habilidades\proyecto\proyecto\bin\System.Web.Webpages.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\21- Mantenimiento de habilidades\proyecto\proyecto\bin\System.Web.Webpages.Deployment.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\21- Mantenimiento de habilidades\proyecto\proyecto\bin\System.Web.Webpages.Razor.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\21- Mantenimiento de habilidades\proyecto\proyecto\bin\System.Web.Helpers.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\21- Mantenimiento de habilidades\proyecto\proyecto\bin\System.Web.Mvc.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\21- Mantenimiento de habilidades\proyecto\proyecto\obj\Debug\proyecto.csprojResolveAssemblyReference.cache
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\21- Mantenimiento de habilidades\proyecto\proyecto\obj\Debug\proyecto.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\21- Mantenimiento de habilidades\proyecto\proyecto\obj\Debug\proyecto.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\22- Mantenimiento de testimonios\proyecto\proyecto\bin\proyecto.dll.config
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\22- Mantenimiento de testimonios\proyecto\proyecto\bin\proyecto.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\22- Mantenimiento de testimonios\proyecto\proyecto\bin\proyecto.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\22- Mantenimiento de testimonios\proyecto\proyecto\bin\EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\22- Mantenimiento de testimonios\proyecto\proyecto\bin\EntityFramework.SqlServer.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\22- Mantenimiento de testimonios\proyecto\proyecto\bin\Helper.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\22- Mantenimiento de testimonios\proyecto\proyecto\bin\Microsoft.Web.Infrastructure.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\22- Mantenimiento de testimonios\proyecto\proyecto\bin\Model.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\22- Mantenimiento de testimonios\proyecto\proyecto\bin\System.Web.Helpers.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\22- Mantenimiento de testimonios\proyecto\proyecto\bin\System.Web.Mvc.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\22- Mantenimiento de testimonios\proyecto\proyecto\bin\System.Web.Razor.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\22- Mantenimiento de testimonios\proyecto\proyecto\bin\System.Web.Webpages.Deployment.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\22- Mantenimiento de testimonios\proyecto\proyecto\bin\System.Web.Webpages.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\22- Mantenimiento de testimonios\proyecto\proyecto\bin\System.Web.Webpages.Razor.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\22- Mantenimiento de testimonios\proyecto\proyecto\bin\Helper.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\22- Mantenimiento de testimonios\proyecto\proyecto\bin\Model.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\22- Mantenimiento de testimonios\proyecto\proyecto\bin\EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\22- Mantenimiento de testimonios\proyecto\proyecto\bin\EntityFramework.SqlServer.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\22- Mantenimiento de testimonios\proyecto\proyecto\bin\System.Web.Razor.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\22- Mantenimiento de testimonios\proyecto\proyecto\bin\System.Web.Webpages.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\22- Mantenimiento de testimonios\proyecto\proyecto\bin\System.Web.Webpages.Deployment.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\22- Mantenimiento de testimonios\proyecto\proyecto\bin\System.Web.Webpages.Razor.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\22- Mantenimiento de testimonios\proyecto\proyecto\bin\System.Web.Helpers.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\22- Mantenimiento de testimonios\proyecto\proyecto\bin\System.Web.Mvc.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\22- Mantenimiento de testimonios\proyecto\proyecto\obj\Debug\proyecto.csprojResolveAssemblyReference.cache
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\22- Mantenimiento de testimonios\proyecto\proyecto\obj\Debug\proyecto.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\22- Mantenimiento de testimonios\proyecto\proyecto\obj\Debug\proyecto.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\24- Pasando el diseño a nuestra solucion\proyecto\proyecto\bin\proyecto.dll.config
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\24- Pasando el diseño a nuestra solucion\proyecto\proyecto\bin\proyecto.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\24- Pasando el diseño a nuestra solucion\proyecto\proyecto\bin\proyecto.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\24- Pasando el diseño a nuestra solucion\proyecto\proyecto\bin\EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\24- Pasando el diseño a nuestra solucion\proyecto\proyecto\bin\EntityFramework.SqlServer.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\24- Pasando el diseño a nuestra solucion\proyecto\proyecto\bin\Helper.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\24- Pasando el diseño a nuestra solucion\proyecto\proyecto\bin\Microsoft.Web.Infrastructure.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\24- Pasando el diseño a nuestra solucion\proyecto\proyecto\bin\Model.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\24- Pasando el diseño a nuestra solucion\proyecto\proyecto\bin\System.Web.Helpers.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\24- Pasando el diseño a nuestra solucion\proyecto\proyecto\bin\System.Web.Mvc.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\24- Pasando el diseño a nuestra solucion\proyecto\proyecto\bin\System.Web.Razor.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\24- Pasando el diseño a nuestra solucion\proyecto\proyecto\bin\System.Web.Webpages.Deployment.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\24- Pasando el diseño a nuestra solucion\proyecto\proyecto\bin\System.Web.Webpages.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\24- Pasando el diseño a nuestra solucion\proyecto\proyecto\bin\System.Web.Webpages.Razor.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\24- Pasando el diseño a nuestra solucion\proyecto\proyecto\bin\Helper.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\24- Pasando el diseño a nuestra solucion\proyecto\proyecto\bin\Model.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\24- Pasando el diseño a nuestra solucion\proyecto\proyecto\bin\EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\24- Pasando el diseño a nuestra solucion\proyecto\proyecto\bin\EntityFramework.SqlServer.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\24- Pasando el diseño a nuestra solucion\proyecto\proyecto\bin\System.Web.Razor.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\24- Pasando el diseño a nuestra solucion\proyecto\proyecto\bin\System.Web.Webpages.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\24- Pasando el diseño a nuestra solucion\proyecto\proyecto\bin\System.Web.Webpages.Deployment.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\24- Pasando el diseño a nuestra solucion\proyecto\proyecto\bin\System.Web.Webpages.Razor.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\24- Pasando el diseño a nuestra solucion\proyecto\proyecto\bin\System.Web.Helpers.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\24- Pasando el diseño a nuestra solucion\proyecto\proyecto\bin\System.Web.Mvc.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\24- Pasando el diseño a nuestra solucion\proyecto\proyecto\obj\Debug\proyecto.csprojResolveAssemblyReference.cache
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\24- Pasando el diseño a nuestra solucion\proyecto\proyecto\obj\Debug\proyecto.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\24- Pasando el diseño a nuestra solucion\proyecto\proyecto\obj\Debug\proyecto.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\25- Mostrando perfil profesional\proyecto\proyecto\bin\proyecto.dll.config
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\25- Mostrando perfil profesional\proyecto\proyecto\bin\proyecto.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\25- Mostrando perfil profesional\proyecto\proyecto\bin\proyecto.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\25- Mostrando perfil profesional\proyecto\proyecto\bin\EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\25- Mostrando perfil profesional\proyecto\proyecto\bin\EntityFramework.SqlServer.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\25- Mostrando perfil profesional\proyecto\proyecto\bin\Helper.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\25- Mostrando perfil profesional\proyecto\proyecto\bin\Microsoft.Web.Infrastructure.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\25- Mostrando perfil profesional\proyecto\proyecto\bin\Model.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\25- Mostrando perfil profesional\proyecto\proyecto\bin\System.Web.Helpers.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\25- Mostrando perfil profesional\proyecto\proyecto\bin\System.Web.Mvc.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\25- Mostrando perfil profesional\proyecto\proyecto\bin\System.Web.Razor.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\25- Mostrando perfil profesional\proyecto\proyecto\bin\System.Web.Webpages.Deployment.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\25- Mostrando perfil profesional\proyecto\proyecto\bin\System.Web.Webpages.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\25- Mostrando perfil profesional\proyecto\proyecto\bin\System.Web.Webpages.Razor.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\25- Mostrando perfil profesional\proyecto\proyecto\bin\Helper.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\25- Mostrando perfil profesional\proyecto\proyecto\bin\Model.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\25- Mostrando perfil profesional\proyecto\proyecto\bin\EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\25- Mostrando perfil profesional\proyecto\proyecto\bin\EntityFramework.SqlServer.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\25- Mostrando perfil profesional\proyecto\proyecto\bin\System.Web.Razor.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\25- Mostrando perfil profesional\proyecto\proyecto\bin\System.Web.Webpages.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\25- Mostrando perfil profesional\proyecto\proyecto\bin\System.Web.Webpages.Deployment.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\25- Mostrando perfil profesional\proyecto\proyecto\bin\System.Web.Webpages.Razor.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\25- Mostrando perfil profesional\proyecto\proyecto\bin\System.Web.Helpers.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\25- Mostrando perfil profesional\proyecto\proyecto\bin\System.Web.Mvc.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\25- Mostrando perfil profesional\proyecto\proyecto\obj\Debug\proyecto.csprojResolveAssemblyReference.cache
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\25- Mostrando perfil profesional\proyecto\proyecto\obj\Debug\proyecto.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\25- Mostrando perfil profesional\proyecto\proyecto\obj\Debug\proyecto.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\26- Enviando un email\proyecto\proyecto\bin\proyecto.dll.config
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\26- Enviando un email\proyecto\proyecto\bin\proyecto.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\26- Enviando un email\proyecto\proyecto\bin\proyecto.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\26- Enviando un email\proyecto\proyecto\bin\EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\26- Enviando un email\proyecto\proyecto\bin\EntityFramework.SqlServer.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\26- Enviando un email\proyecto\proyecto\bin\Helper.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\26- Enviando un email\proyecto\proyecto\bin\Microsoft.Web.Infrastructure.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\26- Enviando un email\proyecto\proyecto\bin\Model.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\26- Enviando un email\proyecto\proyecto\bin\System.Web.Helpers.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\26- Enviando un email\proyecto\proyecto\bin\System.Web.Mvc.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\26- Enviando un email\proyecto\proyecto\bin\System.Web.Razor.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\26- Enviando un email\proyecto\proyecto\bin\System.Web.Webpages.Deployment.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\26- Enviando un email\proyecto\proyecto\bin\System.Web.Webpages.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\26- Enviando un email\proyecto\proyecto\bin\System.Web.Webpages.Razor.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\26- Enviando un email\proyecto\proyecto\bin\Helper.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\26- Enviando un email\proyecto\proyecto\bin\Model.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\26- Enviando un email\proyecto\proyecto\bin\EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\26- Enviando un email\proyecto\proyecto\bin\EntityFramework.SqlServer.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\26- Enviando un email\proyecto\proyecto\bin\System.Web.Razor.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\26- Enviando un email\proyecto\proyecto\bin\System.Web.Webpages.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\26- Enviando un email\proyecto\proyecto\bin\System.Web.Webpages.Deployment.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\26- Enviando un email\proyecto\proyecto\bin\System.Web.Webpages.Razor.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\26- Enviando un email\proyecto\proyecto\bin\System.Web.Helpers.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\26- Enviando un email\proyecto\proyecto\bin\System.Web.Mvc.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\26- Enviando un email\proyecto\proyecto\obj\Debug\proyecto.csprojResolveAssemblyReference.cache
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\26- Enviando un email\proyecto\proyecto\obj\Debug\proyecto.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\26- Enviando un email\proyecto\proyecto\obj\Debug\proyecto.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\27- Exportando a PDF\proyecto\proyecto\bin\proyecto.dll.config
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\27- Exportando a PDF\proyecto\proyecto\bin\proyecto.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\27- Exportando a PDF\proyecto\proyecto\bin\proyecto.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\27- Exportando a PDF\proyecto\proyecto\bin\EntityFramework.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\27- Exportando a PDF\proyecto\proyecto\bin\EntityFramework.SqlServer.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\27- Exportando a PDF\proyecto\proyecto\bin\Helper.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\27- Exportando a PDF\proyecto\proyecto\bin\Microsoft.Web.Infrastructure.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\27- Exportando a PDF\proyecto\proyecto\bin\Model.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\27- Exportando a PDF\proyecto\proyecto\bin\System.Web.Helpers.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\27- Exportando a PDF\proyecto\proyecto\bin\System.Web.Mvc.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\27- Exportando a PDF\proyecto\proyecto\bin\System.Web.Razor.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\27- Exportando a PDF\proyecto\proyecto\bin\System.Web.Webpages.Deployment.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\27- Exportando a PDF\proyecto\proyecto\bin\System.Web.Webpages.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\27- Exportando a PDF\proyecto\proyecto\bin\System.Web.Webpages.Razor.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\27- Exportando a PDF\proyecto\proyecto\bin\Helper.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\27- Exportando a PDF\proyecto\proyecto\bin\Model.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\27- Exportando a PDF\proyecto\proyecto\bin\EntityFramework.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\27- Exportando a PDF\proyecto\proyecto\bin\EntityFramework.SqlServer.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\27- Exportando a PDF\proyecto\proyecto\bin\System.Web.Razor.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\27- Exportando a PDF\proyecto\proyecto\bin\System.Web.Webpages.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\27- Exportando a PDF\proyecto\proyecto\bin\System.Web.Webpages.Deployment.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\27- Exportando a PDF\proyecto\proyecto\bin\System.Web.Webpages.Razor.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\27- Exportando a PDF\proyecto\proyecto\bin\System.Web.Helpers.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\27- Exportando a PDF\proyecto\proyecto\bin\System.Web.Mvc.xml
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\27- Exportando a PDF\proyecto\proyecto\obj\Debug\proyecto.csprojResolveAssemblyReference.cache
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\27- Exportando a PDF\proyecto\proyecto\obj\Debug\proyecto.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\27- Exportando a PDF\proyecto\proyecto\obj\Debug\proyecto.pdb
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\27- Exportando a PDF\proyecto\proyecto\bin\Rotativa.Core.dll
+D:\Mis Cursos\ASP.NET MVC Creando un portafolio profesional\27- Exportando a PDF\proyecto\proyecto\bin\Rotativa.MVC.dll
